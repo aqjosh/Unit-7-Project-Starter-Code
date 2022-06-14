@@ -1,0 +1,19 @@
+.results {
+display:none;
+} 
+
+.whole {
+background-color: lightblue;
+}
+
+.prediction {
+background-color: pink;
+}
+
+.results {
+background-color: lightblue;
+}
+
+body {
+	background-image:url("https://www.cnet.com/a/img/resize/eabd239642878785575800cb4b1a52ee4ccc1bc9/2020/08/18/b7168aea-9f7e-47bb-9f31-4cb8ad92fbc7/lg-note-20-ultra-5g-iphone-11-se-google-pixel-4a-lg-velvet-6133.jpg?auto=webp&fit=crop&height=630&width=1200");
+}
